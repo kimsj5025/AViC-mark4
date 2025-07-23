@@ -1,6 +1,11 @@
 # AViC mark4
 
 ![50118A62-6CF0-418D-B7F5-079604FAB273_4_5005_c.jpeg](AViC%20mark4%202272a69ddfde80479462d8885297603f/50118A62-6CF0-418D-B7F5-079604FAB273_4_5005_c.jpeg)
+<img width="966" height="683" alt="shce" src="https://github.com/user-attachments/assets/bb2822fc-bd07-4deb-a91a-c77bd31b0598" />
+<img width="693" height="326" alt="muc" src="https://github.com/user-attachments/assets/63895a70-1f34-4c74-b449-2b955dc81b5e" />
+<img width="390" height="496" alt="pow" src="https://github.com/user-attachments/assets/85b2e691-adef-49a6-bb5e-b86ac4c6b241" />
+<img width="383" height="652" alt="pcb" src="https://github.com/user-attachments/assets/ba18cd69-e0d2-4598-9cff-d39ba7b90d83" /> 
+
 
 이번에는 기존과는 다르게 완전 하이엔드급 보드를 제작해 보려고 하였다. 이를 위해서 TDK사의 가장 최신 센서와 20cm정확도를 갖는 기압 센서, 그리고 내장 GPS와 지자기 센서, 총 4개의 pyro까지, 필요한 모든 것들을 신용카드 사이즈의 보드 안에 통합하려고 하였다.
 
